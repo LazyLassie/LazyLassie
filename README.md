@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prachurya!
-- 👀 I’m interested in cloud computing, ethical hacking, AI, Android App Dev.
+- 👀 I’m interested in cloud computing, ethical hacking, AI, Android App Dev, Digital Marketing.
 - 🌱 I’m currently learning Web Dev with Bootstrap and React Js.
 - 💞️ I’m looking to collaborate on anything from the mentioned domains for hackathons and other competitions.
 - ✨ I love writing, binge watching, travelling and a lot more stuffs.
