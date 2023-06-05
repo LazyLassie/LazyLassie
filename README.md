@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prachurya!
-- 👀 I’m interested in AI, Android App Dev, Full Stack, Digital Marketing.
+- 👀 I’m interested in AI, Android App Dev, Full Stack.
 - 🌱 I’m currently learning Android App Dev.
 - 💞️ I’m looking to collaborate for hackathons and other events.
 - ✨ I love writing, binge watching, travelling and a lot more stuffs.
