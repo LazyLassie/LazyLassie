@@ -1,4 +1,4 @@
-<a href=""><img src=""/></a>
+<a href="https://github.com/LazyLassie/LazyLassie/blob/main/Me.gif"><img src="https://github.com/LazyLassie/LazyLassie/blob/main/Me.gif"/></a>
 
 - 👋 Hi, I’m Prachurya!
 - 👀 I’m interested in AI, Android App Dev, Full Stack.
