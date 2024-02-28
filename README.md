@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Prachurya!
 - 👀 I’m interested in AI, Android App Dev, Full Stack.
-- 🌱 I’m currently learning Android App Dev.
+- 🌱 I’m currently learning Full Stack.
 - 💞️ I’m looking to collaborate for hackathons and other events.
 - ✨ I love writing, binge watching, travelling and a lot more stuffs.
 - 📫 Reach me at https://www.linkedin.com/in/prachurya-priyadarshini-a4bb241ba/
