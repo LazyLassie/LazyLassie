@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Full Stack.
 - 💞️ I’m looking to collaborate for hackathons and other events.
 - ✨ I love writing, binge watching, travelling and a lot more stuffs.
-- 📫 Reach me at https://www.linkedin.com/in/prachurya-priyadarshini-a4bb241ba/
+- 📫 Reach me at imprachi2015@gmail.com
 - ✍ Do checkout my technical blogs (collabs) https://medium.com/@documentation.iquestvitat
 - 🌟 Follow my musings at https://www.yourquote.in/prachi-priyadarshin-hhy/quotes
 
